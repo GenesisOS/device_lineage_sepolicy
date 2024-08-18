@@ -1,3 +1,6 @@
+# PIHooks
+system_public_prop(pih_disable_prop)
+
 # ATV
 # used by mediashell
 product_internal_prop(odm_cast_prop)
